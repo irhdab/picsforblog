@@ -1,4 +1,7 @@
 # picsforblog
+## general(profile etc)
+![4F4B4AC9-BD96-4B4B-B2AA-79980C1C987E_1_201_a](https://github.com/user-attachments/assets/95352e8e-afa9-446c-8c60-5b5a50e62ea2)
+
 ## 2026 CSIAMUN
 ![FF584941-FD17-47AE-BBEB-D1A0E1131490_1_105_c](https://github.com/user-attachments/assets/6732d66e-77e6-425d-9d93-4ef17c48cfaa)
 ![2BE7F183-1D15-4A4D-BE4D-86670D983CD1_1_105_c](https://github.com/user-attachments/assets/9aed610c-d720-4216-9412-6c1d16e0b1b5)
